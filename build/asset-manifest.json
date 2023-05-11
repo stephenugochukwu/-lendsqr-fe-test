@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a909a09.css",
+    "main.js": "/static/js/main.3a3b1dc2.js",
+    "static/media/profilepicture.svg": "/static/media/profilepicture.a008ce41d19f6d058e7a97a8feea6831.svg",
+    "static/media/sf-compact.otf": "/static/media/sf-compact.671b03a17f06783554e3.otf",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/biglogo.svg": "/static/media/biglogo.09ab3c2d3909a795c1389eddc76c5449.svg",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/AvenirNextLTPro-Regular.otf": "/static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
+    "static/media/banner.svg": "/static/media/banner.efd4af624ea9c5d59b68d76827e38d11.svg",
+    "static/media/bell.svg": "/static/media/bell.3830269c4f9b2b495dd6bbea61e241ef.svg",
+    "static/media/graceprofile.svg": "/static/media/graceprofile.a9b25eed6c3a2d2293ac6fd04b9f65cf.svg",
+    "static/media/icon.svg": "/static/media/icon.ebdc30107ef95ecae4114b8cb03c3d24.svg",
+    "index.html": "/index.html",
+    "static/media/earth.svg": "/static/media/earth.c7688a6d836e7955608e66554be1c0a3.svg",
+    "main.0a909a09.css.map": "/static/css/main.0a909a09.css.map",
+    "main.3a3b1dc2.js.map": "/static/js/main.3a3b1dc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a909a09.css",
+    "static/js/main.3a3b1dc2.js"
+  ]
+}
