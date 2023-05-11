@@ -57,7 +57,7 @@ const Nav = () => {
                 aria-expanded="false"
                 className="pl-2 dropdown-toggle fw-bold"
               >
-                Obed
+                Stephen
               </NavLink>
               <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
